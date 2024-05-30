@@ -1,17 +1,9 @@
-## Running React on Replit
+Registration using API screenshot
+![WhatsApp Image 2024-05-30 at 15 23 56_29533e57](https://github.com/CforCodin/2100970130002/assets/98217459/0b0869db-f5ed-4cea-a34f-e695eed578f8)
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+E commerce website API call
+![WhatsApp Image 2024-05-30 at 16 16 29_e086124b](https://github.com/CforCodin/2100970130002/assets/98217459/23619e44-da02-4266-9404-6c61cb6f7312)
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
 
-Using the two in conjunction is one of the fastest ways to build a web app.
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
-
-### Typescript
-
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
