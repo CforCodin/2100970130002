@@ -5,5 +5,5 @@ E commerce website API call
 ![WhatsApp Image 2024-05-30 at 16 16 29_e086124b](https://github.com/CforCodin/2100970130002/assets/98217459/23619e44-da02-4266-9404-6c61cb6f7312)
 
 
-
-
+Output Window 
+![image](https://github.com/CforCodin/2100970130002/assets/98217459/1d2e9b83-36d5-415b-bc84-7de4b07353b2)
